@@ -1,5 +1,5 @@
 
-/*$servername = "localhost";
+<!--$servername = "localhost";
 $username = "id5438599_eddy";
 $password = "pass1234";
 $dbname = "id5438599_gsmdata";
@@ -27,7 +27,7 @@ catch(PDOException $e)
     }
 
 $conn = null;
-*/
+-->
 
 <html>
 <body>
@@ -38,7 +38,7 @@ your email is: <?php echo $_POST["email"]; ?>
 </body>
 </html>
 
-//$params = explode(",",$params);
+<!--$params = explode(",",$params);
 //$farm_id = $params[0];
-//$moisture_sensor_readings = $params[1];
+//$moisture_sensor_readings = $params[1];-->
 
