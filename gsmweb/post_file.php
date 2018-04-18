@@ -29,16 +29,13 @@ catch(PDOException $e)
 $conn = null;
 -->
 
-<html>
-<body>
-
 welcome <?php echo $_POST["name"]; ?><br>
 your email is: <?php echo $_POST["email"]; ?>
 
-</body>
-</html>
 
 <!--$params = explode(",",$params);
 //$farm_id = $params[0];
 //$moisture_sensor_readings = $params[1];-->
+
+
 
